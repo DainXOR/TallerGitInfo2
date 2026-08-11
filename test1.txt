@@ -1,1 +1,2 @@
+Este es un texto de prueba para causar un conflicto con git merge
 Hola k ase xd
